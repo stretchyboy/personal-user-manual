@@ -1,32 +1,20 @@
-# Personal User Manual Template
+# Martyn Eggleton - Personal User Manual
 
-Welcome to the Personal User Manual Template! Simply click "Use this template" above to create your own copy. You may want to read [The Pitch/Anti-Pitch for Personal User Manuals](https://medium.com/@caminmccluskey/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) first.
+## What is a PUM?
 
-### Serving Your Personal User Manual as a Website
-
-[Example](https://camin-mccluskey.github.io/Personal-User-Manual)
-
-1. Click "Use this template" above to create a copy in your Github space. For help with this see [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-2. Change the repository name to `personal-user-manual`.
-3. Edit the sections below to make it uniquely yours. Remember to delete everything inside the the `<details>` tags to remove the help tips.
-4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
-5. Visit `https://<your-github-username>.github.io/personal-user-manual` to see your work!
+- https://www.theunconventionalroute.com/personal-user-manual/
+- [The Pitch/Anti-Pitch for Personal User Manuals](https://medium.com/@caminmccluskey/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) 
+ername>.github.io/personal-user-manual` to see your work!
 
 ## About Me
 
-
-<details>
-    <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
-</details>
+Tall and geeky. I help students program and build robots.
 
 ## How to Contact Me
 
-
-<details>
-    <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
-</details>
+- Email is fine but I will always prefer a chat and an email to confirm details
+- We use Teams a lot and that seems to suit me fine
+- If you don't ask a question you may not get a reply ( Blindspot )
 
 ## Preferred Working Style
 
