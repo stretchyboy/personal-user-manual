@@ -38,10 +38,11 @@ Tall and geeky. I help students program and build robots.
 - Effort
 - Care & Respect
 - Creativity
+- Geekiness
 
 ## My Blind Spots
 
-- Memory, I have an aquired brain injury and so I you just ask for a thing to be done, it will disappear in to the ether. Email things with clear dates or ask for access to my Trello / Planner
+- Memory : I have an acquired brain injury and so if you just ask for a thing to be done, it will disappear in to the ether. Email things with clear dates or ask for access to my Trello / Planner
 - I struggle to work in really loud / busy environments
 
 ## My Pet Peeves
@@ -49,9 +50,8 @@ Tall and geeky. I help students program and build robots.
 - Other people not asking for help.
 
 ## Quirks
-While this is a fun one, there is a temptation to hide behaviour here that probably should be worked on instead. Additionally, behaviour is complex, situation dependent and evolving. Stating you have a particular quirk makes it immutable and sets the expectation that you will always act like this. That said please feel free to include a section like this as it's a good icebreaker, and adds a personal touch. Just be aware that you might be unaware of some of your own "quirky" behaviour.
 
-## What you can expect from me
+- I'm a pedant : Sorry
+- Ask the question you want answered
+- I can't multitask - One question at a time please.
 
-Another one that might be useful for line managers, career coaches and mentors more than ICs. You may want to use this to set expectations around how often you'll be scheduling catchups, how you share feedback and what sort of support you can offer.
-</details>
