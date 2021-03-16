@@ -18,6 +18,7 @@ Tall and geeky. I help students program and build robots.
 
 ## Preferred Working Style
 
+- I like mornings, and being in a school means that I'm an early starter.
 
 <details>
     <summary>Tips</summary>
@@ -26,6 +27,10 @@ Recommended Section: This section is pretty open to interpretation. You might wa
 
 ## What Motivates Me
 
+- Interested students
+- Interested people who want to collaborate (even if it's as an owner / client not a developer)
+- Coding / sovling real problems 
+- Getting things going
 
 <details>
     <summary>Tips</summary>
@@ -34,14 +39,13 @@ Recommended Section: Think about what gives you energy in work. What, about the 
 
 ## What Demotivates Me
 
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: The flip side of the above. Everyone has parts of their work they find less interesting, and they won't be the same for everyone. You never know, a task you find impossibly tedious might be something someone else really enjoys - if so, you've discovered a win-win!
-</details>
+- I'm not great with on going admin type tasks
+- 
 
 ## My Values (and what I value in others)
 
+- Effort
+- Care & Respect
 
 <details>
     <summary>Tips</summary>
@@ -49,6 +53,9 @@ Recommended Section: Accepting that we all treat each other with empathy, care a
 </details>
 
 ## My Blind Spots
+
+- Memory, I have an aquired brain injury and so I you just ask for a thing to be done it will disappear in to the ether. Email things with clear dates or ask for 
+- 
 
 
 <details>
