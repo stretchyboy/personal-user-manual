@@ -4,7 +4,7 @@
 
 - https://www.theunconventionalroute.com/personal-user-manual/
 - [The Pitch/Anti-Pitch for Personal User Manuals](https://medium.com/@caminmccluskey/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) 
-ername>.github.io/personal-user-manual` to see your work!
+- Forked from https://github.com/camin-mccluskey/personal-user-manual-template
 
 ## About Me
 
