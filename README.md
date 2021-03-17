@@ -8,7 +8,8 @@ ername>.github.io/personal-user-manual` to see your work!
 
 ## About Me
 
-Tall and geeky. I help students program and build robots.
+- He/him
+- Tall and geeky. I help students program and build robots.
 
 ## How to Contact Me
 
